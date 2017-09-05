@@ -1,6 +1,4 @@
 
-/*Java program to check palindrome*/
-
 import java.util.*;
  
 class Palindrome
